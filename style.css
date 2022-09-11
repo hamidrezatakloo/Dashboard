@@ -14,3 +14,7 @@
     grid-template-rows:1fr 2fr 2fr ;
     grid-template-columns: 2fr 5fr 1fr;
 }
+
+.header{
+    background-color: #fafafa;
+}

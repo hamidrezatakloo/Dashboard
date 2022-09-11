@@ -26,6 +26,9 @@ body{
     background-color: #fafafa;
     grid-row: 1;
     grid-column: 2/4;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 2fr 1fr;
 }
 input[type="search"]{
     background-color: #d4d4d4;

@@ -75,3 +75,8 @@ body{
     grid-row: 2;
     grid-column: 1;
 }
+
+.menu2{
+    grid-row: 3;
+    grid-column: 1;
+}

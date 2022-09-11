@@ -53,6 +53,10 @@ input[type="search"]{
     justify-content: flex-end;
 }
 
+.profile{
+    display: flex;
+    justify-content: center;
+}
 .sidebar{
     background-color: #3b82f6;
     grid-row: 1/-1;

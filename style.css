@@ -53,3 +53,8 @@ body{
 .sidebar-title{
     color: white;
 }
+
+.sidebar-header{
+    display: flex;
+    gap: 1rem;
+}

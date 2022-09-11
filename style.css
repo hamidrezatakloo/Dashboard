@@ -39,4 +39,6 @@
 
 .trending{
     background-color: #fafafa;
+    grid-row:3;
+    grid-column: 3;
 }

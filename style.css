@@ -29,6 +29,7 @@ body{
     display: grid;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 2fr 1fr;
+    box-shadow: 0 2px 16px #d6d3d1;
 }
 
 .search-bar{

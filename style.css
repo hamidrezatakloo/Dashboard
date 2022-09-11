@@ -23,7 +23,7 @@
 
 .sidebar{
     background-color: #3b82f6;
-    grid-row: 1 -1;
+    grid-row: 1/-1;
     grid-column: 1;
 }
 

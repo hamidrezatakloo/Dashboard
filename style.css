@@ -47,6 +47,12 @@ input[type="search"]{
     width: 30px;
 }
 
+.right-header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
 .sidebar{
     background-color: #3b82f6;
     grid-row: 1/-1;

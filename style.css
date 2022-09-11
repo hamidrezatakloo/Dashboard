@@ -50,6 +50,12 @@ body{
     grid-column: 3;
 }
 
+.sidebar{
+    display: grid;
+    grid-template-rows: 1fr 4fr 2fr 4fr;
+    grid-template-columns: 1fr;
+}
+
 .sidebar-title{
     color: white;
 }

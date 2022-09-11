@@ -57,6 +57,12 @@ input[type="search"]{
     display: flex;
     justify-content: center;
 }
+
+.greeting{
+    display: block;
+    font-size: 1rem;
+}
+
 .sidebar{
     background-color: #3b82f6;
     grid-row: 1/-1;

@@ -108,6 +108,11 @@ input[type="search"]{
     margin: 0;
 }
 
+.icons{
+    align-self: flex-end;
+    margin-top: auto;
+}
+
 .announcements{
     background-color: #fafafa;
     grid-row:2;

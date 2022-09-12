@@ -134,7 +134,7 @@ input[type="search"]{
     margin-top: auto;
 }
 
-.announcements{
+.announcement{
     background-color: #fafafa;
     grid-row:2;
     grid-column:3;

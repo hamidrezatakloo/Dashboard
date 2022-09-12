@@ -107,6 +107,8 @@ input[type="search"]{
     justify-content: flex-start;
     align-items: flex-start;
     padding: 1rem;
+    border-left: 8px solid #facc15;
+    border-radius: 8px;
 }
 
 .card>h1,.card>p{

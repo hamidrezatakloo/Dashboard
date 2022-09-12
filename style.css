@@ -102,7 +102,7 @@ input[type="search"]{
 }
 
 .card{
-    height: auto;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;

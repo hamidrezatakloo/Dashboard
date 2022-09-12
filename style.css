@@ -120,6 +120,10 @@ input[type="search"]{
     margin: 0;
 }
 
+.card >p{
+    color: #374151;
+}
+
 .icons{
     align-self: flex-end;
     margin-top: auto;

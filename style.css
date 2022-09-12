@@ -205,3 +205,9 @@ input[type="search"]{
 .sidebar-header ~ div img{
     width: 30px;
 }
+
+.sidebar li{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

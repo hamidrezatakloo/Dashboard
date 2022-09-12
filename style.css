@@ -114,6 +114,7 @@ input[type="search"]{
     border-left: 8px solid #facc15;
     border-radius: 8px;
     background-color: #fafafa;
+    box-shadow: 0 4px 4px rgba(0,0,0,.6);
 }
 
 .card>h1,.card>p{

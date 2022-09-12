@@ -50,6 +50,11 @@ input[type="search"]{
     padding: 10px 0;
 }
 
+.search-icon{
+    width: 40px;
+    margin-right: 10px;
+}
+
 .notif-icon{
     width: 30px;
 }

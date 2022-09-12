@@ -110,6 +110,7 @@ input[type="search"]{
     padding: 1rem;
     border-left: 8px solid #facc15;
     border-radius: 8px;
+    background-color: #fafafa;
 }
 
 .card>h1,.card>p{

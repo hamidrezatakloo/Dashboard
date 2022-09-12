@@ -143,6 +143,10 @@ input[type="search"]{
 
 }
 
+.announcement h1{
+    font-size:1.3rem;
+}
+
 .trending{
     background-color: #fafafa;
     grid-row:3;

@@ -110,7 +110,7 @@ input[type="search"]{
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 1rem;
+    padding: 40px;
     border-left: 8px solid #facc15;
     border-radius: 8px;
     background-color: #fafafa;
@@ -131,7 +131,6 @@ input[type="search"]{
 .icons{
     align-self: flex-end;
     margin-top: auto;
-    padding: 10px;
 }
 
 .announcements{

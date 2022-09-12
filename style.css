@@ -147,6 +147,11 @@ input[type="search"]{
     font-size:1.3rem;
 }
 
+.announcement>div:nth-child(2){
+    border-top: 2px solid #d1d5db;
+    border-bottom: 2px solid #d1d5db;
+}
+
 .trending{
     background-color: #fafafa;
     grid-row:3;

@@ -96,7 +96,7 @@ input[type="search"]{
     grid-column: 2;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
-    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     gap: 15px;
 }
 

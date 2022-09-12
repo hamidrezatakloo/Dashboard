@@ -125,7 +125,7 @@ input[type="search"]{
     font-size: 1.5rem;
 }
 
-.card >p,.announcement>p{
+.card >p,.announcement p{
     color: #374151;
 }
 

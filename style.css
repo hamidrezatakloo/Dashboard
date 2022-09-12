@@ -198,3 +198,7 @@ input[type="search"]{
     grid-row: 3;
     grid-column: 1;
 }
+
+.sidebar-header ~ div img{
+    width: 30px;
+}

@@ -109,6 +109,7 @@ input[type="search"]{
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: repeat(2,1fr);
     gap: 15px;
+    margin:20px;
 }
 
 .card{

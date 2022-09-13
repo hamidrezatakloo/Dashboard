@@ -152,10 +152,13 @@ input[type="search"]{
     margin-top: auto;
 }
 
-.announcement-container{
-    background-color: #fafafa;
+.announcement{
     grid-row:2;
     grid-column:3;
+}
+
+.announcement-container{
+    background-color: #fafafa;
     display: flex;
     flex-direction: column;
     justify-content: center;

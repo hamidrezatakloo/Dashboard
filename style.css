@@ -108,9 +108,10 @@ input[type="search"]{
     margin:20px;
 }
 
-.projects > h1{
+.projects > h1,.announcement >h1{
     font-size: 1.5rem;
     padding: 5px 0;
+    margin: 20px 0;
 }
 
 .cards-container{
@@ -167,6 +168,10 @@ input[type="search"]{
 .announcement>div:nth-child(2){
     border-top: 2px solid #d1d5db;
     border-bottom: 2px solid #d1d5db;
+}
+
+.announcement{
+    margin: 20px;
 }
 
 .trending{

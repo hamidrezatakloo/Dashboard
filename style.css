@@ -164,9 +164,10 @@ input[type="search"]{
     background-color: #fafafa;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     padding: 20px;
     border-radius: 8px;
+    flex: 1;
 }
 
 .announcement h1{

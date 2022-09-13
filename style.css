@@ -230,6 +230,7 @@ input[type="search"]{
 .trending>ul{
     list-style: none;
     background-color: #fafafa;
+    padding: 20px;
 }
 
 .trending span{

@@ -109,7 +109,7 @@ input[type="search"]{
     margin:20px;
 }
 
-.projects > h1,.announcement >h1{
+.projects > h1,.announcement >h1,.trending>h1{
     font-size: 1.5rem;
     padding: 5px 0;
     margin: 20px 0;

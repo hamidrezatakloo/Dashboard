@@ -159,6 +159,7 @@ input[type="search"]{
     flex-direction: column;
     justify-content: center;
     padding: 20px;
+    border-radius: 8px;
 }
 
 .announcement h1{

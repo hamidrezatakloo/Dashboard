@@ -233,10 +233,12 @@ input[type="search"]{
 
 .trending span{
     display: block;
+    color: black;
 }
 
 .trending li{
     display: flex;
     gap: 10px;
     align-items: center;
+    color: #374151;
 }

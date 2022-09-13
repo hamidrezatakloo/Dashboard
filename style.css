@@ -176,13 +176,6 @@ input[type="search"]{
     margin: 20px;
 }
 
-.trending{
-    background-color: #fafafa;
-    grid-row:3;
-    grid-column: 3;
-}
-
-
 .sidebar-title{
     color: white;
 }
@@ -226,4 +219,10 @@ input[type="search"]{
     align-items: center;
     gap: 10px;
     margin: 10px 0;
+}
+
+.trending{
+    background-color: #fafafa;
+    grid-row:3;
+    grid-column: 3;
 }

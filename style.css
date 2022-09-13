@@ -230,3 +230,7 @@ input[type="search"]{
 .trending>ul{
     list-style: none;
 }
+
+.trending span{
+    display: block;
+}

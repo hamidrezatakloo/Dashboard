@@ -245,3 +245,7 @@ input[type="search"]{
     align-items: center;
     color: #374151;
 }
+
+li{
+    cursor: pointer;
+}

@@ -226,3 +226,7 @@ input[type="search"]{
     grid-row:3;
     grid-column: 3;
 }
+
+.trending>ul{
+    list-style: none;
+}

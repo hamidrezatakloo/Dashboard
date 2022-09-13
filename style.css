@@ -150,7 +150,7 @@ input[type="search"]{
     margin-top: auto;
 }
 
-.announcement{
+.announcement-container{
     background-color: #fafafa;
     grid-row:2;
     grid-column:3;
